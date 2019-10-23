@@ -1,0 +1,10 @@
+export const FETCH_POSTS = 'FETCH_POSTS';
+export const ADD_POST = 'ADD_POST';
+export const REGISTER = 'REGISTER';
+export const LOGIN = 'LOGIN';  
+export const AUTHENTICATED = 'AUTHENTICATED';  
+export const LOGOUT = 'LOGOUT';  
+export const FOLLOW = 'FOLLOW';  
+export const FETCH_USER = 'FETCH_USER';  
+export const ADD_COMMENT = 'ADD_COMMENT';  
+export const LIKE = 'LIKE';  

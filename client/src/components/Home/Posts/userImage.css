@@ -1,0 +1,20 @@
+.image-wrapper {
+    width: 50px;
+    height: 50px;
+}
+
+.image-wrapper div {
+    background: #00bcd4;
+    width: 100%;
+    height: 100%;
+    color: #fff;
+    text-align: center;
+    line-height: 50px;
+    border-radius: 50%;
+}
+
+
+.user-image span {
+    color: #fff !important;
+   margin: 0 !important;
+}
